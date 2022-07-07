@@ -4,7 +4,7 @@
     "name": "share_me"
   },
   "api": {
-    "projectId": "slx1kjz2",
+    "projectId": "Project_ID",
     "dataset": "production"
   },
   "plugins": [
